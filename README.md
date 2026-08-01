@@ -85,7 +85,6 @@ Example Response
 ## Deployment
 
 Render Deployment URL:
-(Add your Render URL here)
+https://heartdiseasedeployment-b85c.onrender.com
 
-GitHub Repository:
-(Add your GitHub Repository Link here)
+
